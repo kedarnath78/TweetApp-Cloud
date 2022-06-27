@@ -1,0 +1,13 @@
+com\tweetapp\kafka\Producer.class
+com\tweetapp\controller\UserController.class
+com\tweetapp\DynamoDbConfig.class
+com\tweetapp\repository\TweetRepo.class
+com\tweetapp\model\Tweet.class
+com\tweetapp\repository\ReplyRepo.class
+com\tweetapp\model\User.class
+com\tweetapp\repository\UserRepo.class
+com\tweetapp\TweetappApplication.class
+com\tweetapp\model\Reply.class
+com\tweetapp\service\UserServiceImpl.class
+com\tweetapp\service\UserService.class
+com\tweetapp\kafka\Consumer.class
